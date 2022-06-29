@@ -1,0 +1,15 @@
+D:\LeeteCode-C-Sharp\Code\bin\Debug\net6.0\Code.exe
+D:\LeeteCode-C-Sharp\Code\bin\Debug\net6.0\Code.deps.json
+D:\LeeteCode-C-Sharp\Code\bin\Debug\net6.0\Code.runtimeconfig.json
+D:\LeeteCode-C-Sharp\Code\bin\Debug\net6.0\Code.dll
+D:\LeeteCode-C-Sharp\Code\bin\Debug\net6.0\Code.pdb
+D:\LeeteCode-C-Sharp\Code\obj\Debug\net6.0\Code.csproj.AssemblyReference.cache
+D:\LeeteCode-C-Sharp\Code\obj\Debug\net6.0\Code.GeneratedMSBuildEditorConfig.editorconfig
+D:\LeeteCode-C-Sharp\Code\obj\Debug\net6.0\Code.AssemblyInfoInputs.cache
+D:\LeeteCode-C-Sharp\Code\obj\Debug\net6.0\Code.AssemblyInfo.cs
+D:\LeeteCode-C-Sharp\Code\obj\Debug\net6.0\Code.csproj.CoreCompileInputs.cache
+D:\LeeteCode-C-Sharp\Code\obj\Debug\net6.0\Code.dll
+D:\LeeteCode-C-Sharp\Code\obj\Debug\net6.0\refint\Code.dll
+D:\LeeteCode-C-Sharp\Code\obj\Debug\net6.0\Code.pdb
+D:\LeeteCode-C-Sharp\Code\obj\Debug\net6.0\Code.genruntimeconfig.cache
+D:\LeeteCode-C-Sharp\Code\obj\Debug\net6.0\ref\Code.dll
